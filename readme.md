@@ -8,3 +8,5 @@
 </ul>
 <h1>License</h1>
 <p>This application is under the GNU general public license version 3.</p>
+<h1>Bugs</h1>
+<p>Doesn't work with Spotify dynamic playlists</p>
