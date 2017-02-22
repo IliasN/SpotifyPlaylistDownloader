@@ -19,3 +19,27 @@ E:\CFPT 4ème\Random C#\SpotifyPlaylistDownloader\TestYoutube\bin\Release\Spotif
 E:\CFPT 4ème\Random C#\SpotifyPlaylistDownloader\TestYoutube\obj\Release\SpotifyPlaylistDownloader.csproj.SpotifyPlaylistDownloader.exe.config
 E:\CFPT 4ème\Random C#\SpotifyPlaylistDownloader\TestYoutube\obj\Release\SpotifyPlaylistDownloader.exe
 E:\CFPT 4ème\Random C#\SpotifyPlaylistDownloader\TestYoutube\obj\Release\SpotifyPlaylistDownloader.pdb
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\SpotifyPlaylistDownloader.exe.config
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\obj\Release\SpotifyPlaylistDownloader.exe
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\obj\Release\SpotifyPlaylistDownloader.pdb
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\avcodec-53.dll
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\avdevice-53.dll
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\avformat-53.dll
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\avutil-51.dll
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\postproc-52.dll
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\swresample-0.dll
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\swscale-2.dll
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\Accord.dll.config
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\SpotifyPlaylistDownloader.exe
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\SpotifyPlaylistDownloader.pdb
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\MediaToolkit.dll
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\Newtonsoft.Json.dll
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\SpotifyAPI.dll
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\taglib-sharp.dll
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\YoutubeSearch.dll
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\Newtonsoft.Json.xml
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\SpotifyAPI.xml
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\obj\Release\SpotifyPlaylistDownloader.csprojResolveAssemblyReference.cache
+C:\Users\N'HAIRII_INFO\SpotifyPlaylistDownloader\SpotifyPlaylistDownloader\TestYoutube\obj\Release\SpotifyPlaylistDownloader.csproj.SpotifyPlaylistDownloader.exe.config

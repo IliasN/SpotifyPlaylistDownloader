@@ -28,7 +28,7 @@ namespace SpotifyPlaylistDownloader
         #endregion
 
         #region Properties
-        public string Id
+        private string Id
         {
             get { return _id; }
             set { _id = value; }
@@ -43,7 +43,6 @@ namespace SpotifyPlaylistDownloader
             this.Id = id;
             _spotify = new SpotifyWebAPI();
             RunAuthentication();
-
         }
         #endregion
 
@@ -52,16 +51,11 @@ namespace SpotifyPlaylistDownloader
         /// </summary>
         /// <param name="id">the id of the playlist</param>
         /// <returns>List of tracks name</returns>
-        public List<string> GetPlaylistTrackById(int id)
+        public List<PlaylistTrack> GetPlaylistTrackById(int id)
         {
             Paging<PlaylistTrack> tracks = _spotify.GetPlaylistTracks(this.Id, _playlists[id].Id);
             List<PlaylistTrack> pt = tracks.Items.ToList();
-            List<string> names = new List<string>();
-            foreach (var item in pt)
-            {
-                names.Add(item.Track.Name + " - " + item.Track.Artists[0].Name);
-            }
-            return names;
+            return pt;
         }
 
         /// <summary>
@@ -92,7 +86,7 @@ namespace SpotifyPlaylistDownloader
                 playlists = _spotify.GetUserPlaylists(this.Id, 20, playlists.Offset + playlists.Limit);
                 list.AddRange(playlists.Items);
             }
-
+            list = list.Where(p => p.Collaborative == false && p.Owner.Id == this.Id).ToList();
             return list;
         }
 
@@ -127,7 +121,6 @@ namespace SpotifyPlaylistDownloader
         private void InitialSetup()
         {
             _profile = _spotify.GetPrivateProfile();
-
 
             _playlists = GetPlaylists();
         }

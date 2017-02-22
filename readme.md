@@ -5,8 +5,9 @@
 <li>YoutubeExtractor</li>
 <li>MediaToolKit</li>
 <li>YoutubeSearch</li>
+<li>TagLib</li>
 </ul>
 <h1>License</h1>
 <p>This application is under the GNU general public license version 3.</p>
 <h1>Bugs</h1>
-<p>Doesn't work with Spotify dynamic playlists.</p>
+<p>Doesn't work with Spotify dynamic playlists. And with collaboratives ones. And followed ones.</p>
