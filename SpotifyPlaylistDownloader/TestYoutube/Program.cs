@@ -115,6 +115,7 @@ namespace SpotifyPlaylistDownloader
                         TagLib.File file = TagLib.File.Create(p2);
                         file.Tag.Performers = ((IEnumerable<SimpleArtist>)song.Track.Artists).Select(p => p.Name).ToArray();
                         file.Tag.Title = song.Track.Name;
+                        file.Tag.Album = song.Track.Album.Name;
                         file.Save();
 
 
