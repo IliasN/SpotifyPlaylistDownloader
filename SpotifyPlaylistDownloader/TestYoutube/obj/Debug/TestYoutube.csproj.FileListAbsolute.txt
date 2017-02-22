@@ -1,0 +1,31 @@
+C:\Users\Administrateur\Desktop\TestYoutube\TestYoutube\bin\Debug\TestYoutube.exe.config
+C:\Users\Administrateur\Desktop\TestYoutube\TestYoutube\bin\Debug\TestYoutube.exe
+C:\Users\Administrateur\Desktop\TestYoutube\TestYoutube\bin\Debug\TestYoutube.pdb
+C:\Users\Administrateur\Desktop\TestYoutube\TestYoutube\bin\Debug\YoutubeSearch.dll
+C:\Users\Administrateur\Desktop\TestYoutube\TestYoutube\obj\Debug\TestYoutube.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\TestYoutube\TestYoutube\obj\Debug\TestYoutube.exe
+C:\Users\Administrateur\Desktop\TestYoutube\TestYoutube\obj\Debug\TestYoutube.pdb
+C:\Users\Administrateur\Desktop\TestYoutube\TestYoutube\bin\Debug\libvideo.dll
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\TestYoutube.exe.config
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\obj\Debug\TestYoutube.exe
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\obj\Debug\TestYoutube.pdb
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\obj\Debug\TestYoutube.csprojResolveAssemblyReference.cache
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\avcodec-53.dll
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\avdevice-53.dll
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\avformat-53.dll
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\avutil-51.dll
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\postproc-52.dll
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\swresample-0.dll
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\swscale-2.dll
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\Accord.dll.config
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\TestYoutube.exe
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\TestYoutube.pdb
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\libvideo.dll
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\MediaToolkit.dll
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\YoutubeSearch.dll
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\Newtonsoft.Json.dll
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\YoutubeExtractor.pdb
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\Newtonsoft.Json.xml
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\obj\Debug\TestYoutube.csproj.TestYoutube.exe.config
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\SpotifyAPI.dll
+E:\CFPT 4ème\Random C#\TestYoutube\TestYoutube\bin\Debug\SpotifyAPI.xml
